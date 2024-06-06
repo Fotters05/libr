@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uShUx1pYWtRfSvtY8kmkItyit3M62sIQeXPYmx28IFm0plc6S73hccFiz5SIbHNmcJovwW8DOtxr2PLXCtKiBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fotters\\source\\repos\\Biblioteka\\Biblioteka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fotters\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
